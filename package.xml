@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>Sophus</name>
+  <version>0.0.1</version>
+  <description>app</description>
+  <author email="hitimo@ethz.ch">hitimo</author>
+  <maintainer email="hitimo@ethz.ch">hitimo</maintainer>
+  <license>ASL</license>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+  <depend>message_generation</depend>
+  <depend>message_runtime</depend>
+
+  <depend>cmake_modules</depend>
+  <depend>eigen_catkin</depend>
+</package>
+
